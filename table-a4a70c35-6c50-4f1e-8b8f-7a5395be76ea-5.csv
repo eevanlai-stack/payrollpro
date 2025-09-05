@@ -1,0 +1,2 @@
+﻿你提供的内容,实际文件,说明
+jsx<br>import { motion } from 'framer-motion';<br>...（完整代码）...<br>,app.js,这就是 app.js 文件的内容，你只需要把它保存为 `app.js` 就可以了
