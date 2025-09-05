@@ -1,0 +1,1 @@
+{ icon: DollarSign, title: "Tax Compliance", desc: "Automate tax calculations, filings, and generate W-2 forms." }
